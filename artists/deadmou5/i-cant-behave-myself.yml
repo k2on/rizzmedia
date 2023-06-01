@@ -1,0 +1,16 @@
+---
+name: Can't Behave Myself
+artist: deadmau5
+genre: EDM
+released: 2010-01-01
+cover: "https://3.bp.blogspot.com/_zjVydElJEho/TTTYrPhwZRI/AAAAAAAADuo/JmPf-Xr9nso/w1200-h630-p-k-no-nu/Deadmau5%2B-%2BI%2BCan%2527t%2BBehave%2BMyself%2B%2528FanMade%2BSingle%2BCover%2529%2BMade%2Bby%2BBB111111.png"
+tracks:
+  "1":
+    name: Can't Behave Myself
+    duration: 5:48
+    artists:
+      - id: deadmau5
+      - id: neon-hitch
+    location:
+      - url: "https://soundcloud.com/beatzgrav/i-cant-behave-myself-deadmau5"
+track_count: 1
